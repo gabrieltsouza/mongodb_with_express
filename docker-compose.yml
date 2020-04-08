@@ -1,5 +1,4 @@
-#before -> docker volume create --name volume_mongo_database_files --opt type=none --opt device=D:\ecommerce_fhvgts\mongo_files --opt o=bind
-#https://medium.com/@renato.groffe/mongodb-mongo-express-docker-compose-montando-rapidamente-um-ambiente-para-uso-824f25ca6957
+#Não utilizado -> docker volume create --name volume_mongo_database_files --opt type=none --opt device=D:\ecommerce_fhvgts\mongo_files --opt o=bind
 
 #to up containers 
 #docker-compose up -d
